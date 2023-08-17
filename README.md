@@ -11,16 +11,6 @@ The <span style="color: green"> **United States Geological Survey**</span>, or U
 
 The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 
-## Use Cases
-- Educate general public and goverment organizations about earthquakes and issues facing our planet
-- Secure more funding
-
-## Challenge Configuration
-There are two parts to the challenge, as Part 2 is optional. You will be able to visualize the earthquake data. The two views: **Outdoor** and **Streetmap** launch successfully.
-
-- Part 1: Create the Earthquake Visualization
-- Part 2: Gather and Plot More Data (Optional)
-
 ### Leaflet Part 1: Create the Earthquake Visualization
 
 ![Grayscale](./Images/grayscale.jpg "Grayscale View")
@@ -50,7 +40,6 @@ There are two parts to the challenge, as Part 2 is optional. You will be able to
 
 - Part 2: Gather and Plot More Data (Optional)
 ![Outdoors](./Images/outdoors.jpg)
-
 
 ### Leaflet Part 2: Gather and Plot More Data (Optional)
 
