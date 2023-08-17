@@ -71,5 +71,4 @@ Perform the following tasks:
 * Add layer controls to our map.
 
 ---
-#### Copyright
-Tanisha Cooper ©2022. All Rights Reserved.
+
